@@ -8,10 +8,9 @@ This project demonstrates a simple CI/CD pipeline for a Node.js application usin
 - GitHub
 - Docker Hub
 
-## Project Structure
+Project Structure
 
 NodeJs-Docker/
-│
 ├── nodejs-cicd/
 │   ├── Dockerfile
 │   ├── app.js
